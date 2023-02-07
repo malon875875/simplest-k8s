@@ -1,3 +1,6 @@
+# Documentation
+https://itnext.io/argo-cd-rancher-desktop-for-a-local-gitops-lab-8d044089f50a
+
 # simplest-k8s
 Simplest k8s deployment as described in this article https://itnext.io/simplest-minimal-k8s-app-tutorial-with-rancher-desktop-in-5-min-5481edb9a4a5
 
